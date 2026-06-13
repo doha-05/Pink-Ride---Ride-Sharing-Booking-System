@@ -43,21 +43,33 @@ Separate user execution spaces dynamically generated via PHP variables.
 ### 3. 🌐 Native Hybrid Dual-Language Localizer
 * A completely built-in localization mechanism (`lang.php`) capable of hot-swapping global translation matrices dynamically on-the-fly.
 * Features automatic memory persistence across standard user lifecycles using structured combinations of persistent browser `setcookie()` tracking and short-lived `$_SESSION` storage arrays.
+---
+
+## 📸 Production Environment Snapshots
+
+| User Registration & Validation | Database Encrypted Hashing | Dynamic Ride Search & Filters |
+| :---: | :---: | :---: |
+| <img src="uploads/signup_preview.png" width="260" alt="Sign Up Form"> | <img src="uploads/database_preview.png" width="260" alt="Database View"> | <img src="uploads/search_preview.png" width="260" alt="Ride Booking Filters"> |
 
 ---
+<p align="center">Engineered with high technical compliance for modern web performance. 🚀</p>
+
+
+---
+
 
 ## 📁 Repository Blueprint
 
 ```text
 pink_ride/
-├── lang.php               # Complete system-wide translation dictionary matrix
-├── db_connect.php          # Core system backend MySQL initialization configurations
-├── index.php              # Modern landing hub & fast system onboarding panel
-├── about.php              # Corporate team overview, course credits, and identity module
-├── login.php              # Highly responsive login form with real-time UI data validation
-├── logout.php             # Full cookie clearings and structured session state destructions
-├── driver_dashboard.php   # Driver operations engine with full programmatic control
-├── edit_ride.php          # Interface designed for real-time ride detail transformations
-├── delete_ride.php        # Secure backend script enforcing validation logic before item removal
-├── book.php               # Capacity depletion algorithm ensuring single seat reductions
-└── pink_rides_db.sql      # Raw logical database migrations script
+├── lang.php               # System-wide localization router & full text dictionary
+├── db_connect.php         # Database configuration, connection setups, and UTF-8 charset enforcers
+├── index.php              # Modern localized landing interface & gateway portal
+├── about.php              # Academic project context, institutional info, and developers roster
+├── login.php              # Secure login module with instant RegEx input checking
+├── logout.php             # Full memory cleanup & cryptographic browser cookie destruction 
+├── driver_dashboard.php   # Central operational center for drivers with SweetAlert2 integration
+├── edit_ride.php          # Protected trip adjustment interface
+├── delete_ride.php        # Strict parameterized validation and database drop execution
+├── book.php               # Inventory subtraction routine checking seat-capacity states
+└── pink_rides_db.sql      # Database schema migrations and data structures scriptns script
