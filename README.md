@@ -1,8 +1,7 @@
 # 🚗 Pink Ride - Premium Women's Carpooling Platform
 
 <p align="center">
-  <img src="uploads/logo.png" alt="Pink Ride Logo" width="160" style="border-radius: 50%; box-shadow: 0 10px 20px rgba(216, 27, 96, 0.2);">
-</p>
+<img src="pink_ride/pink_ride/uploads/logo.png" alt="Pink Ride Logo" width="160" style="border-radius: 50%; box-shadow: 0 10px 20px rgba(216, 27, 96, 0.2);"></p>
 
 <p align="center">
   <strong>A secure, production-ready, full-stack web ecosystem built for exclusive female ride-sharing and optimized capacity distribution.</strong>
@@ -49,7 +48,7 @@ Separate user execution spaces dynamically generated via PHP variables.
 
 | User Registration & Validation | Database Encrypted Hashing | Dynamic Ride Search & Filters |
 | :---: | :---: | :---: |
-| <img src="uploads/signup_preview.png" width="260" alt="Sign Up Form"> | <img src="uploads/database_preview.png" width="260" alt="Database View"> | <img src="uploads/search_preview.png" width="260" alt="Ride Booking Filters"> |
+| <img src="pink_ride/pink_ride/uploads/signup_preview.png" width="260" alt="Sign Up Form"> | <img src="pink_ride/pink_ride/uploads/database_preview.png" width="260" alt="Database View"> | <img src="pink_ride/pink_ride/uploads/search_preview.png" width="260" alt="Ride Booking Filters"> |
 
 ---
 <p align="center">Engineered with high technical compliance for modern web performance. 🚀</p>
